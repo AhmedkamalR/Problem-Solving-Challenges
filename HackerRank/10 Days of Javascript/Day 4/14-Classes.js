@@ -5,7 +5,6 @@
 // A class called Polygon is initialized with an array with share sizes
 // Create a JavaScript class that returns the perimeter of the shape, when .perimeter() is called
 
-// solution
 // Solution
 class Polygon {
     constructor(arr) {
