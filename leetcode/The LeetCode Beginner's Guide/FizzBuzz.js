@@ -17,7 +17,7 @@ function fizzBuzz(n) {
         if (i % 5 === 0) string += 'Buzz'
 
         if (string === '') string += i
-        res.push(string)
+        result.push(string)
     }
 
     return result
